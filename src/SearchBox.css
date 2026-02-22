@@ -1,0 +1,15 @@
+.searchBox{
+    text-align: center;
+    font-family:'Arial' ;
+}
+#input{
+    padding: 15px;
+    border-radius: 5px;
+}
+.btn{
+    padding:5px;
+    color: white;
+    font-size: large;
+    background:linear-gradient(to right,rgb(1, 124, 255),rgb(184, 9, 248));
+    border-radius: 5px;
+}

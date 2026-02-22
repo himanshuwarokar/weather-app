@@ -1,0 +1,23 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+   
+}
+#inner{
+    width: 350px;
+    height: 450px;
+    border: 2px solid black;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.image{
+    display: inline;
+
+}
+img{
+    width: 350px;
+    height: 200px;
+}
